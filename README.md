@@ -18,7 +18,7 @@ Customer churn is one of the biggest challenges faced by banks today. High churn
 3. Data Transformation: Combining data from two tables using functions like VLOOKUP, INDEXMATCH, and XLOOKUP.
 4. Applying Business Math & Statistics: Information about Business logic, Key Performance Indicators, SUM, SUMIF, COUNT, COUNTIF, AVERAGE.
 5. Data Transformation Using Power Query: Cleaning data, merging data, adding new columns in Power Query, loading Power Query data to excel.
-6. Creating Business Reports using Pivot Table and Power Pivot.
+6. Creating Business Reports using Pivot Table, Power Pivot and Power BI.
 
 ## WorkFlow Steps:
 1. **Define Objective:** Identify the goal of analyzing customer churn to enhance retention strategies.  
