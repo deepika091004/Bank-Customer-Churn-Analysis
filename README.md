@@ -13,12 +13,12 @@ Customer churn is one of the biggest challenges faced by banks today. High churn
 - DAX language
 
 ## Gained Knowledge in:
-1.Excel Basics: Formulas, tables, charts, cell formatting, conditional formatting, security etc.
-2.Data Cleaning : Removing duplicates, using “Text to Columns”, TRIM(), REPLACE() functions.
-3.Data Transformation: Combining data from two tables using functions like VLOOKUP, INDEXMATCH, and XLOOKUP.
-4.Applying Business Math & Statistics: Information about Business logic, Key Performance Indicators, SUM, SUMIF, COUNT, COUNTIF, AVERAGE.
-5.Data Transformation Using Power Query: Cleaning data, merging data, adding new columns in Power Query, loading Power Query data to excel.
-6.Creating Business Reports using Pivot Table and Power Pivot.
+1. Excel Basics: Formulas, tables, charts, cell formatting, conditional formatting, security etc.
+2. Data Cleaning : Removing duplicates, using “Text to Columns”, TRIM(), REPLACE() functions.
+3. Data Transformation: Combining data from two tables using functions like VLOOKUP, INDEXMATCH, and XLOOKUP.
+4. Applying Business Math & Statistics: Information about Business logic, Key Performance Indicators, SUM, SUMIF, COUNT, COUNTIF, AVERAGE.
+5. Data Transformation Using Power Query: Cleaning data, merging data, adding new columns in Power Query, loading Power Query data to excel.
+6. Creating Business Reports using Pivot Table and Power Pivot.
 
 ## WorkFlow Steps:
 1. **Define Objective:** Identify the goal of analyzing customer churn to enhance retention strategies.  
@@ -38,7 +38,7 @@ Customer churn is one of the biggest challenges faced by banks today. High churn
 
 
 
-##Outcome:
+## Outcome:
 The dashboard empowers stakeholders to:
 
 - Monitor churn trends in real time.
